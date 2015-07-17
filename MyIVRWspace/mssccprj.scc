@@ -1,0 +1,5 @@
+SCC = This is a Source Code Control file
+
+[MyIVR1.dsp]
+SCC_Aux_Path = "\\installs\M2 PROJECTS\VOICE SCRIPT ++\TDS"
+SCC_Project_Name = "$/_NEW_TDS/TelescriberCUSTOM/IVRGUIBETA", OPQAAAAA
